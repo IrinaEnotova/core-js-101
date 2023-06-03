@@ -123,7 +123,7 @@ function chainPromises(/* array, action */) {
 //       console.log(err);
 //     });
 //   return promise;
-// }
+}
 
 module.exports = {
   willYouMarryMe,
